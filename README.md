@@ -2,14 +2,6 @@
 	🚀 Opération Liberté
 </h1>
 
-<p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/LeonMoreno/00_hackathon_dic23?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/LeonMoreno/00_hackathon_dic23?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/LeonMoreno/00_hackathon_dic23?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LeonMoreno/00_hackathon_dic23?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LeonMoreno/00_hackathon_dic23?color=green" />
-</p>
-
 ## 💡 About the project
 
     🚀 TLDR: We successfully decoupled BI from the operational database.
@@ -29,3 +21,7 @@
 
 - @LeonMoreno
 - @davpatrik
+
+## Results of the Hackathon
+
+- 2nd place in the Hackathon
